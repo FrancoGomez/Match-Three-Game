@@ -1,0 +1,19 @@
+{
+  "name": "match-three-game",
+  "version": "1.0.0",
+  "description": "A Match Three Puzzle game consist of manipulating tiles in order to make them disappear, acording to a matching criterion. In this case, you have to at least have three of the same objects in the same row or column.",
+  "main": "index.html",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancoGomez/Match-Three-Game.git"
+  },
+  "author": "Franco Gomez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancoGomez/Match-Three-Game/issues"
+  },
+  "homepage": "https://github.com/FrancoGomez/Match-Three-Game#readme"
+}
